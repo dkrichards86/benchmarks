@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017", "DOM"],
+    "target": "es2017",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  }
+}
